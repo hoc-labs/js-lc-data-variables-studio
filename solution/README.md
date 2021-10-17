@@ -1,4 +1,4 @@
-# Scrabble Scorer Assignment
+# Data and Variables Studio
 
 All of your code should be written in the file `script.js`. 
 
